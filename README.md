@@ -1,1 +1,1 @@
-# wedding-tema-1
+Vanilla JS wedding page
